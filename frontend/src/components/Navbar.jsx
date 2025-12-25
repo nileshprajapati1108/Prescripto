@@ -38,7 +38,7 @@ const Navbar = () => {
         {/* ADMIN PANEL BUTTON */}
         <button
           onClick={() =>
-            window.open("http://localhost:5174/", "_blank")
+            window.open(" https://prescripto-1-six.vercel.app/", "_blank")
           }
           className="bg-[color:var(--primary)] text-white px-4 py-1.5 rounded-full text-sm"
         >
